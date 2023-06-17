@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "690968716028",
+    "project_id": "vform-d05b7",
+    "storage_bucket": "vform-d05b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690968716028:android:433a39799ceeabc948ad79",
+        "android_client_info": {
+          "package_name": "com.example.vform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690968716028-j7oeg1q15j4b2gs77lbumtl6gkgkr0jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vform",
+            "certificate_hash": "b468f907ccea6547cce9c5eb9fef99f7c2e7ae61"
+          }
+        },
+        {
+          "client_id": "690968716028-1kq37h7h7m77v4th5qdvivc0dskoeug5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuk-gaYABJfP9XmD3e9caZApDiDcSXZwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690968716028-1kq37h7h7m77v4th5qdvivc0dskoeug5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
